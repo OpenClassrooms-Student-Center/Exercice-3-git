@@ -5,4 +5,5 @@ Nous avons la chance de pouvoir compter sur nos collaborateurs :
 * **Sarah Ceyrat** : CTO
 * **Loic Costa** : Designer UI
 * **Simon Toussaint** : Community Manager
+* **Patricia Thomas** : Intégratrice
 * Peut-être vous ?
